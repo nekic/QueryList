@@ -1,6 +1,6 @@
 {
-    "name": "jaeger/querylist",
-    "description": "Simple, elegant, extensible PHP Web Scraper (crawler/spider),Use the css3 dom selector,Based on phpQuery! 简洁、优雅、可扩展的PHP采集工具(爬虫)，基于phpQuery。",
+    "name": "nekic/querylist",
+    "description": "临时包，官方更新后切换官方版本  jae-jae/QueryList, Simple, elegant, extensible PHP Web Scraper (crawler/spider),Use the css3 dom selector,Based on phpQuery! 简洁、优雅、可扩展的PHP采集工具(爬虫)，基于phpQuery。",
     "keywords":["QueryList","phpQuery","spider"],
     "homepage": "http://querylist.cc",
     "require": {
