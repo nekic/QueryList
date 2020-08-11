@@ -6,7 +6,7 @@
     "require": {
         "PHP":">=7.1",
         "jaeger/phpquery-single": "^1",
-        "tightenco/collect": "^5",
+        "tightenco/collect": "^7",
         "jaeger/g-http": "^1.1",
         "ext-dom": "*"
     },
